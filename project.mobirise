@@ -1505,10 +1505,10 @@
             },
             ".mbr-text DIV": {
               "text-align": "center",
-              "color": "#bbbbbb"
+              "color": "#efefef"
             },
             ".mbr-text B": {
-              "color": "#bbbbbb"
+              "color": "#efefef"
             }
           },
           "_name": "footer2",
